@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Branding">
+    <File Path="Branding\Files\logo.png" Url="Branding/Files/logo.png" ReplaceContent="TRUE" />
+    <File Path="Branding\MasterPages\default.master" Url="Branding/MasterPages/default.master" ReplaceContent="TRUE" />
+    <File Path="Branding\PageLayouts\ArticleLeftCustom.aspx" Url="Branding/PageLayouts/ArticleLeftCustom.aspx" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
